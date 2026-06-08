@@ -58,7 +58,7 @@ Atuo como **desenvolvedor full-stack** numa plataforma de **recrutamento com Int
 
 ## 🌟 Projetos pessoais (públicos)
 
-Quer ver código que eu posso mostrar? Está tudo na minha conta pessoal **[@lukvilela](https://github.com/lukvilela)** — incluindo o **[Trello Command Center](https://github.com/lukvilela/trello-command-center)**, o e-commerce **[Akira Mangás](https://github.com/lukvilela/manga-store)** e mais. 👉
+Quer ver código que eu posso mostrar? Está tudo na minha conta pessoal **[@lukvilela](https://github.com/lukvilela)** — incluindo o **[Command Center](https://github.com/lukvilela/command-center)**, o e-commerce **[Akira Mangás](https://github.com/lukvilela/manga-store)** e mais. 👉
 
 ---
 
