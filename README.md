@@ -17,7 +17,7 @@
 
 Esta é minha conta de trabalho. Os repositórios são **privados** (código proprietário), então aqui fica o **resumo do que construo** — porque o que importa é o que entrega valor, não só o que é público.
 
-Atuo como **desenvolvedor full-stack** numa plataforma de **recrutamento com Inteligência Artificial (ATS)**, do front à infraestrutura, além de ferramentas internas com agentes e LLMs.
+Sou **desenvolvedor full-stack na Land IT** e trabalho em **vários produtos e clientes** — uma plataforma de **recrutamento com IA (ATS)** é só um deles. Também construo **integrações enterprise**, **servidores e agentes MCP**, **automações RPA** e plataformas web sob medida, do front à infraestrutura.
 
 ### 🤖 IA &amp; LLM em produção
 - Análise de **currículos e entrevistas** com Gemini / Vertex AI
